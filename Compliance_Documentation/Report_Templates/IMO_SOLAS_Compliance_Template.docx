@@ -1,1 +1,29 @@
-# Placeholder for IMO_SOLAS_Compliance_Template.docx - content provided in previous response.
+IMO SOLAS Compliance Document Template 
+Project/Vessel: [Name] 
+Prepared by: [Name], Date: [YYYY-MM-DD]
+
+**1. SOLAS Chapter II-2 Regulation 7 – Fire Detection and Alarm Systems**  
+- **Requirement:** A fixed fire detection and fire alarm system shall be provided to continuously monitor all spaces (as required by vessel type and size) and automatically indicate the presence of fire.  
+- **Compliance:** The vessel is equipped with an automatic fire detection system covering all machinery spaces and accommodation areas. The system continuously monitors multiple sensors (temperature and smoke) and triggers both audible and visual alarms on the bridge and locally when fire conditions are detected.  
+- **Evidence:** System design documents and installation plans (ref. Drawing FD-001); test reports for continuous monitoring and alarm activation (e.g., factory acceptance test TC-FD-001 and timing test TC-FD-002); type-approval certificate for the fire detection system per IMO Fire Safety Systems (FSS) Code.
+
+**2. SOLAS Chapter II-2 Regulation 4 – Fixed Fire Safety Measures (Fuel Shutoff in Machinery Spaces)**  
+- **Requirement:** Machinery spaces shall have means for emergency shut-off of fuel oil pumps and closing of oil fuel tank quick-closing valves, operable from outside the space, to minimize fire risk (Ref: SOLAS II-2/4.2).  
+- **Compliance:** An Emergency Shutdown (ESD) system is installed, providing remote closure of the main and auxiliary fuel supply valves from both the bridge and the machinery control station. Activation of the ESD will shut down fuel supply within seconds and send an alarm signal to the bridge, in accordance with SOLAS requirements.  
+- **Evidence:** ESD functional test results (e.g., TC-ESD-001/002 confirming operation from two locations; TC-ESD-003 confirming shutdown within 10s); system schematic showing remote shutoff controls; certification of quick-closing valves meeting ISO/SOLAS standards.
+
+**3. SOLAS Chapter II-1 – Water Level Detection and Bilge Alarms**  
+- **Requirement:** Vessels shall be fitted with water level detectors (bilge alarms) in shaft tunnels, machinery spaces, and other relevant compartments below the waterline, to promptly alert crew of flooding (e.g., per SOLAS II-1 regulations on flooding detection, and SOLAS Chapter XII for cargo holds if applicable).  
+- **Compliance:** The vessel’s bilge alarm system monitors water levels in at least five separate compartments (machinery spaces and other low-lying areas). Each sensor triggers an audible and visual alarm on the bridge when the water level reaches the preset threshold (150 mm above deck in the compartment), providing early warning of potential flooding.  
+- **Evidence:** Installation reports for high water level detectors (model and calibration certificates); commissioning test records (TC-BA-001 verifying compartment coverage, TC-BA-002/003 verifying alarm activation at threshold); maintenance logs indicating routine testing of bilge sensors.
+
+**4. SOLAS Chapter II-2 Regulation 12 – Notification of Crew and Passengers (General Alarm & PA Systems)**  
+- **Requirement:** Ships must have an audible general alarm system and a means of broadcasting emergency announcements (Public Address) to notify all crew and passengers in an emergency (SOLAS II-2/12 and SOLAS III/6.4 where applicable). The general alarm should be triggered automatically or manually to signal general emergency.  
+- **Compliance:** The safety system interfaces with the ship’s general alarm and public address systems via a central alarm panel. Any fire alarm, bilge alarm, or emergency shutdown activation will automatically activate the general emergency alarm throughout the vessel. The bridge can also manually trigger the general alarm. The PA system is used to announce specific instructions, meeting SOLAS requirements for emergency communication.  
+- **Evidence:** Integration test results of the central alarm interface (showing fire/bilge/ESD alarms trigger general alarm buzzers and lights shipwide); inspection report confirming placement and audibility of general alarm signaling devices in all accommodation and work areas; SOLAS-required general alarm bell identification markings present (per regulations).
+
+**5. Additional SOLAS Provisions**  
+*(This section can be used to document compliance with any other SOLAS chapters or regulations relevant to the safety systems, such as Chapter V for bridge navigational safety if alarms interface with navigation equipment, or SOLAS III for emergency lighting if applicable.)*  
+
+**Conclusion:**  
+This document outlines how the Maritime Vessel Safety Systems project meets or exceeds the applicable SOLAS 1974 requirements as amended. The provided evidence (test reports, certificates, and inspections) demonstrates compliance. All systems are installed and tested in accordance with SOLAS and IMO Fire Safety Systems (FSS) Code guidelines. Regular maintenance and drills will be conducted to ensure continued compliance, as required by SOLAS regulation 15.  
