@@ -26,7 +26,7 @@ This project involves developing an enhanced automated V&V framework for maritim
 - Standardized reporting templates (IMO SOLAS, Transport Canada).
 - Automated extraction and reporting of test results.
 
-## Project Timeline (Upcoming)
+## Project Timeline
 | Weeks | Task                                 | Milestone                   |
 |-------|--------------------------------------|-----------------------------|
 | 1-2   | Additional Test Case Development     | Completion of all Test Cases|
